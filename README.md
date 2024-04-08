@@ -30,4 +30,4 @@
 |<img src="https://i.imgur.com/h4a8yGi.png" width="100%">|<img src="https://i.imgur.com/Hg51lLl.png" width="100%">|
 
 ### 系統架構圖
-<img src="https://i.imgur.com/IvaRNGY.png" width="100%">
+<img src="https://i.imgur.com/IvaRNGY.png" width="80%">
